@@ -1,4 +1,4 @@
-# Project Overview: Sensor Fusion and Dead Reckoning with IMU Data
+# Project Overview: VectorNav Sensor Fusion and Dead Reckoning
 
 This project aims to implement sensor fusion techniques and perform dead reckoning using data from an Inertial Measurement Unit (IMU). The work is divided into two primary sections:
 
